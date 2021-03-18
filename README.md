@@ -45,6 +45,8 @@ No configuration needed, install and restart the phone.
 * [2020.12.27.355085521.Release (universal)](https://www.apkmirror.com/apk/google-inc/gmail/gmail-2020-12-27-355085521-release-release/gmail-2020-12-27-355085521-release-2-android-apk-download/)
 * [2021.01.24.356386247.Release (universal)](https://www.apkmirror.com/apk/google-inc/gmail/gmail-2021-01-24-356386247-release-release/gmail-2021-01-24-356386247-release-2-android-apk-download/)
 * [2021.02.05.357775197.Release (universal)](https://www.apkmirror.com/apk/google-inc/gmail/gmail-2021-02-05-357775197-release-release/gmail-2021-02-05-357775197-release-android-apk-download/)
+* [2021.02.21.361222438.Release (universal)](https://www.apkmirror.com/apk/google-inc/gmail/gmail-2021-02-21-361222438-release-release/gmail-2021-02-21-361222438-release-2-android-apk-download/)
+* [2021.02.21.361635104.Release (universal)](https://www.apkmirror.com/apk/google-inc/gmail/gmail-2021-02-21-361635104-release-release/gmail-2021-02-21-361635104-release-android-apk-download/)
 
 <img src="https://pbs.twimg.com/media/EEK15orXkAErJm_?format=jpg" width="30%">
 <img src="https://pbs.twimg.com/media/EEK15olWwAALArs?format=jpg" width="30%"> 
