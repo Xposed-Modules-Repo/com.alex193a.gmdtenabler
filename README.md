@@ -51,6 +51,9 @@ No configuration needed, install and restart the phone.
 * [2021.03.07.363560676.Release (universal)](https://www.apkmirror.com/apk/google-inc/gmail/gmail-2021-03-07-363560676-release-release/gmail-2021-03-07-363560676-release-2-android-apk-download/)
 * [2021.03.07.363022938.Release (universal)](https://www.apkmirror.com/apk/google-inc/gmail/gmail-2021-03-07-363022938-release-release/gmail-2021-03-07-363022938-release-android-apk-download/)
 * [2021.03.21.366143478.Release (universal)](https://www.apkmirror.com/apk/google-inc/gmail/gmail-2021-03-21-366143478-release-release/gmail-2021-03-21-366143478-release-android-apk-download/)
+* [2021.05.02.373608075.Release (universal)](https://www.apkmirror.com/apk/google-inc/gmail/gmail-2021-05-02-377137179-release-release/gmail-2021-05-02-377137179-release-android-apk-download/)
+* [2021.05.16.380255809.Release (universal)](https://www.apkmirror.com/apk/google-inc/gmail/gmail-2021-05-16-380255809-release-release/gmail-2021-05-16-380255809-release-2-android-apk-download/)
+* [2021.08.24.394054657.Release (universal)](https://www.apkmirror.com/apk/google-inc/gmail/gmail-2021-08-24-394054657-release-release/gmail-2021-08-24-394054657-release-android-apk-download/)
 
 <img src="https://pbs.twimg.com/media/EEK15orXkAErJm_?format=jpg" width="30%">
 <img src="https://pbs.twimg.com/media/EEK15olWwAALArs?format=jpg" width="30%"> 
